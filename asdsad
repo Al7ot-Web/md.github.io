@@ -1,0 +1,57 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Marketplace
+    Explore
+
+    @Al7ot-Web
+
+1
+0
+
+    0
+
+Al7ot-Web/md.github.io
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Insights
+Settings
+Create new page
+Edit mode:
+
+    Block Elements
+    Span Elements
+    Miscellaneous
+
+    Links
+    Emphasis
+    Code
+    Images
+
+Markdown has two types of links: inline and reference. For both types of links, the text you want to display to the user is placed in square brackets. For example, if you want your link to display the text “GitHub”, you write [GitHub].
+
+To create an inline link, create a set of parentheses immediately after the brackets and write your URL within the parentheses. (e.g., [GitHub](https://github.com/)). Relative paths are allowed in inline links.
+
+To create a reference link, use two sets of square brackets. [[my internal link|internal-ref]] will link to the internal reference internal-ref.
+Edit Message
+
+    © 2017 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    API
+    Training
+    Shop
+    Blog
+    About
+
